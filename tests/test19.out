@@ -1,0 +1,20 @@
+teste1 19
+11-JJ-ll: invalid licence plate.
+11-jj-11: invalid licence plate.
+11-11-11: invalid licence plate.
+JJ-JJ-JJ: invalid licence plate.
+11-JJ-!=: invalid licence plate.
+teste: no such parking.
+11-JJ-!=: invalid licence plate.
+11-JJ-11: invalid vehicle entry.
+invalid date.
+invalid date.
+teste1 18
+teste1 17
+teste1 16
+teste1 15
+AA-JJ-11 02-02-2024 10:00 02-02-2024 10:00 0.00
+AA-JJ-12 02-02-2024 10:00 02-02-2024 10:00 0.00
+AA-JJ-13 02-02-2024 10:00 02-02-2024 10:00 0.00
+AA-JJ-14 02-02-2024 10:00 02-02-2024 10:00 0.00
+AA-JJ-1A: invalid licence plate.
