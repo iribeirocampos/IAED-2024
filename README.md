@@ -29,8 +29,8 @@ Each __park__ is characterized by a name, a maximum capacity and
 a billing system.
 
 The amount to be invoiced is defined in 15-minute intervals. Depending on
-the duration of the vehicle's stay in the car park, the amount to be invoiced
-for each period varies. The billing system for all car parks
+the duration of the vehicle's stay in the parking lot, the amount to be invoiced
+for each period varies. The billing system for all parking lots
 is defined by three values:
 
 - *X* : the amount for every 15 minutes in the first hour;
@@ -43,9 +43,9 @@ However, if the period of stay in the park is less than 24 hours,
 then the maximum charge cannot exceed *Z*.
 Note that in the tariff we always have *Z* > *Y* > *X*.
 
-Vehicles can remain in a car park for more than 24 hours. In this
+Vehicles can remain in a parking lot for more than 24 hours. In this
 In this case, the maximum daily charge *Z* is applied to each full 24-hour period
-that remains in the car park. The amount to be charged for the remaining period is calculated
+that remains in the parking lot. The amount to be charged for the remaining period is calculated
 as defined for a period of less than 24 hours as described in the
 previous paragraph.
 
